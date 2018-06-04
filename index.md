@@ -16,7 +16,7 @@ I received my M.S. in Data Science from [NYU](https://cds.nyu.edu) in 2016. I al
 
 ---
 
-### Publication & Preprints
+### Publications & Preprints
 &nbsp;
 
 **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**  
