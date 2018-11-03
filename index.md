@@ -19,6 +19,10 @@ I received my M.S. in Data Science from [NYU](https://cds.nyu.edu) in 2016. I al
 ### Publications & Preprints
 &nbsp;
 
+**Quantifying Uncertainties in Natural Language Processing Tasks**  
+<u>Yijun Xiao</u>, William Yang Wang  
+**AAAI 2019** &nbsp; [[Paper]()]
+
 **Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting**  
 Ganbin Zhou, Ping Luo, <u>Yijun Xiao</u>, Fen Lin, Bo Chen, Qing He  
 **AAAI 2018** &nbsp; [[Paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16316/16134)]
