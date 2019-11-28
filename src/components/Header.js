@@ -20,6 +20,11 @@ const useStyles = makeStyles(theme => ({
   appbar: {
     backgroundColor: theme.palette.common.white,
     boxShadow: "0 0 0"
+  },
+  tab: {
+    "&:hover": {
+      color: theme.palette.grey.A700
+    },
   }
 }));
 
@@ -57,6 +62,7 @@ export default function Header() {
               key={index}
               label={tab.name}
               to={tab.link}
+              className={classes.tab}
               {...a11yProps(index)}
             />
           ))}

@@ -21,25 +21,25 @@ const useStyles = makeStyles(theme => ({
     padding: theme.spacing(1, 1)
   },
   emailIcon: {
-    backgroundColor: theme.palette.primary.main,
+    backgroundColor: theme.palette.primary.light,
     "&:hover": {
-      backgroundColor: theme.palette.primary.darker2
+      backgroundColor: theme.palette.primary.main
     }
   },
   twitterIcon: {
-    backgroundColor: theme.palette.twitter.lighter,
+    backgroundColor: theme.palette.twitter.light,
     "&:hover": {
       backgroundColor: theme.palette.twitter.main
     }
   },
   githubIcon: {
-    backgroundColor: theme.palette.github.lighter,
+    backgroundColor: theme.palette.github.light,
     "&:hover": {
       backgroundColor: theme.palette.github.main
     }
   },
   schoolIcon: {
-    backgroundColor: theme.palette.scholar.lighter,
+    backgroundColor: theme.palette.scholar.light,
     "&:hover": {
       backgroundColor: theme.palette.scholar.main
     }

@@ -6,7 +6,7 @@ export default function MDXLayout({ children }) {
   return (
     <MDXProvider
       components={{
-        p: props => <Typography gutterBottom variant="body1" {...props}/>,
+        p: props => <Typography paragraph variant="body1" {...props}/>,
       }}
     >
       {children}

@@ -2,7 +2,7 @@ import React from "react";
 import { graphql, useStaticQuery } from "gatsby";
 import Typography from "@material-ui/core/Typography";
 import { makeStyles } from "@material-ui/styles";
-import { Container } from "@material-ui/core";
+import { Container, Link } from "@material-ui/core";
 
 const useStyles = makeStyles(theme => ({
   footer: {
@@ -27,9 +27,8 @@ export default function Footer() {
     <footer className={classes.footer}>
       <Container maxWidth="md">
         <Typography variant="body2" color="textSecondary" align="center">
-          {"Copyright © "}
-          {site.siteMetadata.author} {new Date().getFullYear()}
-          {"."}
+          Copyright © {site.siteMetadata.author} {new Date().getFullYear()}.
+          Built with <Link href="https://www.gatsbyjs.org/" color="inherit">Gatsby</Link>.
         </Typography>
       </Container>
     </footer>
