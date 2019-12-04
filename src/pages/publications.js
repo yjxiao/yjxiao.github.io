@@ -1,19 +1,35 @@
 import React from "react";
+import { graphql, useStaticQuery } from "gatsby";
 import Container from "@material-ui/core/Container";
-import Typography from "@material-ui/core/Typography";
-import Box from "@material-ui/core/Box";
+import Grid from "@material-ui/core/Grid";
 
-import Link from "../components/Link";
+import PublicationEntry from "../components/PublicationEntry";
 
 export default function Publications() {
+  const data = useStaticQuery(graphql`
+    query {
+      allPublicationsJson {
+        edges {
+          node {
+            author
+            link
+            title
+            venue
+          }
+        }
+      }
+    }
+  `);
+
   return (
     <Container maxWidth="sm">
-      <Box my={4}>
-        <Typography variant="h4" component="h1" gutterBottom>
-          Gatsby v4-beta example
-        </Typography>
-        <Link to="/">Go to the main page</Link>
-      </Box>
+      <Grid container direction="column" justify="center" spacing={2}>
+        {data.allPublicationsJson.edges.map((node, index) => (
+          <Grid item key={index}>
+            <PublicationEntry entry={node} />
+          </Grid>
+        ))}
+      </Grid>
     </Container>
   );
 }

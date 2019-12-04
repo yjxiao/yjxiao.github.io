@@ -1,0 +1,57 @@
+[
+    {
+        "title": "Text Modeling with Syntax-Aware Variational Autoencoders",
+        "author": [
+            "Yijun Xiao", 
+            "William Yang Wang"
+        ],
+        "venue": "arXiv preprint arXiv:1908.09964",
+        "year": 2019,
+        "link": "https://arxiv.org/abs/1908.09964"
+    },
+    {
+        "title": "Quantifying Uncertainties in Natural Language Processing Tasks",
+        "author": [
+            "Yijun Xiao", 
+            "William Yang Wang"
+        ],
+        "venue": "AAAI 2019",
+        "link": "https://arxiv.org/abs/1811.07253"
+    },
+    {
+        "title": "Elastic Responding Machine for Dialog Generation with Dynamically Mechanism Selecting",
+        "author": [
+            "Ganbin Zhou", 
+            "Ping Luo", 
+            "Yijun Xiao", 
+            "Fen Lin", 
+            "Bo Chen", 
+            "Qing He"
+        ],
+        "venue":"AAAI 2018",
+        "link": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16316/16134"
+    },
+    {
+        "title": "Tree-Structured Neural Machine for Linguistics-Aware Sentence Generation",
+        "author": [
+            "Ganbin Zhou", 
+            "Ping Luo",
+            "Rongyu Cao",
+            "Yijun Xiao", 
+            "Fen Lin", 
+            "Bo Chen", 
+            "Qing He"
+        ],
+        "venue": "AAAI 2018",
+        "link": "https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16567/16133"
+    },
+    {
+        "title": "Efficient character-level document classification by combining convolution and recurrent layers",
+        "author": [
+            "Yijun Xiao", 
+            "Kyunghyun Cho"
+        ],
+        "venue": "arXiv preprint arXiv:1602.00367",
+        "link": "https://arxiv.org/abs/1602.00367"
+    }
+]

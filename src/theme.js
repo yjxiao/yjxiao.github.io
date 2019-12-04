@@ -53,4 +53,6 @@ theme.typography.body1 = {
   }
 };
 
+theme.typography.subtitle1.lineHeight = 1.3
+
 export default theme;
