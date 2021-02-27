@@ -31,7 +31,7 @@ I received my M.S. in Data Science from [NYU](https://cds.nyu.edu) in 2016. I al
 <u>Yijun Xiao</u>, William Yang Wang  
 **AAAI 2019** &nbsp; [[Paper](https://arxiv.org/abs/1811.07253)]
 
-**Dirichlet variational autoencoder for text modeling**  
+**Dirichlet Variational Autoencoder for Text Modeling**  
 <u>Yijun Xiao</u>, Tiancheng Zhao, William Yang Wang  
 **arXiv:1811.00135** &nbsp; [[Paper](https://arxiv.org/abs/1811.00135)]
 
@@ -43,7 +43,7 @@ Ganbin Zhou, Ping Luo, <u>Yijun Xiao</u>, Fen Lin, Bo Chen, Qing He
 Ganbin Zhou, Ping Luo, Rongyu Cao, <u>Yijun Xiao</u>, Fen Lin, Bo Chen, Qing He  
 **AAAI 2018** &nbsp; [[Paper](https://arxiv.org/abs/1705.00321)]
 
-**Efficient character-level document classification by combining convolution and recurrent layers**  
+**Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers**  
 <u>Yijun Xiao</u>, Kyunghyun Cho  
 **arXiv:1602.00367** &nbsp; [[Paper](https://arxiv.org/abs/1602.00367)] [[Code]()]
 
