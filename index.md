@@ -10,7 +10,9 @@ profile:
 ### About Me
 &nbsp;
 
-I'm a fourth year Ph.D. Student in the [UCSB NLP Group](http://nlp.cs.ucsb.edu) advised by [Professor William Y. Wang](http://www.cs.ucsb.edu/~william/). My research interests are natural language processing and deep learning. More specifically, I'm interested in Bayesian deep learning, uncertainty estimation, deep generative models and their applications.
+I'm on the research team at [Omnifold](https://omnifold.ai), where I solve forecasting and optimization problems with AI. Before Omnifold, I was a research scientist at Meta working on recommender systems.
+
+I received my Ph.D. in Computer Science from UC Santa Barbara in 2022, advised by [Professor William Y. Wang](http://www.cs.ucsb.edu/~william/) in the [UCSB NLP Group](http://nlp.cs.ucsb.edu). My Ph.D. research covered natural language processing and deep learning, in particular Bayesian deep learning, uncertainty estimation, deep generative models and their applications.
 
 I received my M.S. in Data Science from [NYU](https://cds.nyu.edu) in 2016. I also hold a Bachelor's from Tsinghua University and a Master's degree from UC Davis both in Civil Engineering.
 
@@ -46,16 +48,5 @@ Ganbin Zhou, Ping Luo, Rongyu Cao, <u>Yijun Xiao</u>, Fen Lin, Bo Chen, Qing He
 **Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers**  
 <u>Yijun Xiao</u>, Kyunghyun Cho  
 **arXiv:1602.00367** &nbsp; [[Paper](https://arxiv.org/abs/1602.00367)] [[Code]()]
-
----
-
-### Teaching
-&nbsp;
-
-Fall 2019 - CS165B: Machine Learning  
-Winter 2018 - CS40: Foundations of CS  
-Fall 2017 - CS40: [Foundations of CS](http://william.cs.ucsb.edu/courses/index.php/Fall_2017_CS40_Foundations_of_Computer_Science)  
-Spring 2016 - DS-GA1008: [Deep Learning](https://cilvr.nyu.edu/doku.php?id=courses:deeplearning2016:start)  
-Spring 2016 - CSCI-UA0480: [Intro to Machine Learning](https://people.csail.mit.edu/dsontag/courses/ml16)
 
 ---
